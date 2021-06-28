@@ -27,3 +27,4 @@ export { default as VaultsIcon } from "./Vaults";
 export { default as EggHouseIcon } from "./EggHouse";
 export { default as Skyline1Icon } from "./Skyline1";
 export { default as Skyline2Icon } from "./Skyline2";
+export { default as FeaturesIcon } from "./Features";
